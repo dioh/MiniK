@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/svn/!svn/ver/6/trunk/dev/includes
+END
+a20.asm
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/6/trunk/dev/includes/a20.asm
+END
+estructuras_paginacion.inc
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/6/trunk/dev/includes/estructuras_paginacion.inc
+END
+estructuras_tss.inc
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/6/trunk/dev/includes/estructuras_tss.inc
+END
+macrosmodoreal.mac
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/6/trunk/dev/includes/macrosmodoreal.mac
+END
+estructuras_gdt.inc
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/6/trunk/dev/includes/estructuras_gdt.inc
+END
+estructuras_idt.inc
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/6/trunk/dev/includes/estructuras_idt.inc
+END

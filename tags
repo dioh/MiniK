@@ -1,0 +1,21 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+BITS	init_kernel.asm	/^BITS 16$/;"	l
+BITS	init_kernel.asm	/^BITS 32$/;"	l
+GDT_DESC	gdt.c	/^gdt_descriptor GDT_DESC = {(unsigned short) sizeof(gdt)-1, (unsigned int)&gdt};/;"	v
+MSG	screen_print.c	3;"	d	file:
+SCREEN_SIZE	screen_print.c	2;"	d	file:
+VIDEO_MEM	screen_print.c	1;"	d	file:
+extern	init_kernel.asm	/^extern tsss;$/;"	l
+fake_tsd_call	init_kernel.asm	/^fake_tsd_call:$/;"	l
+gdt	gdt.c	/^gdt_entry gdt[GDT_COUNT] = {$/;"	v
+global	init_kernel.asm	/^global start$/;"	l
+inicio_32	init_kernel.asm	/^inicio_32:$/;"	l
+pagination_success	init_kernel.asm	/^pagination_success:$/;"	l
+print_screen	screen_print.c	/^int print_screen()$/;"	f
+start	init_kernel.asm	/^start:$/;"	l
+tsss	tss.c	/^str_tss  tsss[TSS_COUNT] = {$/;"	v
